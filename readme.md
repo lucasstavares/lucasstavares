@@ -13,5 +13,5 @@
 
 - 🌐 &nbsp; Android | ReactJS | HTML | CSS | JavaScript | TailwindCSS 
 - 🛢 &nbsp; MySQL | Firebase | MongoDB
-- 🔧 &nbsp; Visual Studio code | Git
+- 🔧 &nbsp; Visual Studio Code | Git
 - 🖥 &nbsp; Adobe Xd | Figma | Photoshop 
