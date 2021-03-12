@@ -1,4 +1,4 @@
-<h2> <a href='https://emojitool.com/pt/flag-for-brazil'>🇧🇷</a> Olá! I'm Lucas. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> U+1F1E7 U+1F1F7 Olá! I'm Lucas. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
