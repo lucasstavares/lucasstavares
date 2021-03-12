@@ -1,4 +1,4 @@
-<h2> :earth_americas: I'm Lucas. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> :earth_americas: Olá, I'm Lucas. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
