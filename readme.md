@@ -5,7 +5,7 @@
 - 🔭 &nbsp; I’m currently learning tailwindCSS.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security.
+- 🌱 &nbsp; Enthusiast in cyber security.
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; A cup of coffee can change everything. 
 
