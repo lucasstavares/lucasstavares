@@ -12,6 +12,5 @@
 <h3>🛠 Tech Stack</h3>
 
 - 🌐 &nbsp; Android | ReactJS | HTML | CSS | JavaScript | TailwindCSS 
-- 🛢 &nbsp; MySQL 
 - 🔧 &nbsp; Visual Studio Code | Git
 - 🖥 &nbsp; Adobe Xd | Figma | Photoshop 
