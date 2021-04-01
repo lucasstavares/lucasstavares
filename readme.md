@@ -13,5 +13,5 @@
 
 <img src="/react.svg" width="50" height="50" /><img src="/react-router.svg" width="50" height="50" /><img src="/bootstrap.svg" width="50" height="50" /><img src="/css-3.svg" width="50" height="50" /><img src="/html-5.svg" width="50" height="50" /><img src="/nodejs-icon.svg" width="50" height="50" /><img src="/redux.svg" width="50" height="50" /><img src="/mongodb.svg" width="50" height="50" /><img src="/sass.svg" width="50" height="50" /> 
 
-
-
+<img src="https://raw.githubusercontent.com/patil-prajwal/Tech-Stack-Icons/661b1305f52d49de94f6640f8bbeec93dba9dc8a/Icons/javascript.svg
+" width="50" height="50" /> 
