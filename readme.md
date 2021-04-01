@@ -11,14 +11,14 @@
 
 <h3>🛠 Tech Stack</h3>
 <h2>Front-End</h2>
-<div style={{ display: flex }}>
+<div style={{ display: flex, background-color: white }}>
  <img src="https://raw.githubusercontent.com/patil-prajwal/Tech-Stack-Icons/661b1305f52d49de94f6640f8bbeec93dba9dc8a/Icons/javascript.svg" width="50" height="50" />              <img src="https://raw.githubusercontent.com/patil-prajwal/Tech-Stack-Icons/661b1305f52d49de94f6640f8bbeec93dba9dc8a/Icons/html-5.svg" width="50" height="50" />                    <img src="https://raw.githubusercontent.com/patil-prajwal/Tech-Stack-Icons/661b1305f52d49de94f6640f8bbeec93dba9dc8a/Icons/css-3.svg" width="50" height="50" />                    <img src="https://raw.githubusercontent.com/patil-prajwal/Tech-Stack-Icons/661b1305f52d49de94f6640f8bbeec93dba9dc8a/Icons/bootstrap.svg" width="50" height="50" />                <img src="https://raw.githubusercontent.com/patil-prajwal/Tech-Stack-Icons/661b1305f52d49de94f6640f8bbeec93dba9dc8a/Icons/redux.svg" width="50" height="50" /> 
  <img src="https://raw.githubusercontent.com/patil-prajwal/Tech-Stack-Icons/661b1305f52d49de94f6640f8bbeec93dba9dc8a/Icons/react.svg" width="50" height="50" />
  <img src="https://raw.githubusercontent.com/patil-prajwal/Tech-Stack-Icons/661b1305f52d49de94f6640f8bbeec93dba9dc8a/Icons/react-router.svg" width="50" height="50" />
 </div>
 
 <h2>Back-End</h2>
-<div style={{ display: flex }}>
+<div style={{ display: flex, background-color: white }}>
  <img src="https://raw.githubusercontent.com/patil-prajwal/Tech-Stack-Icons/661b1305f52d49de94f6640f8bbeec93dba9dc8a/Icons/python.svg" width="50" height="50" />              <img src="https://raw.githubusercontent.com/patil-prajwal/Tech-Stack-Icons/661b1305f52d49de94f6640f8bbeec93dba9dc8a/Icons/flask.svg" width="50" height="50" />                 
  <img src="https://raw.githubusercontent.com/patil-prajwal/Tech-Stack-Icons/661b1305f52d49de94f6640f8bbeec93dba9dc8a/Icons/nodejs-icon.svg" width="50" height="50" />
  <img src="https://raw.githubusercontent.com/patil-prajwal/Tech-Stack-Icons/661b1305f52d49de94f6640f8bbeec93dba9dc8a/Icons/express.svg" width="50" height="50" />
