@@ -11,11 +11,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-<img src="/react.svg" width="200" height="200" />
+<img src="/react.svg" width="100" height="20" />
+<img src="/bootstrap.svg" width="100" height="20" />
+<img src="/css-3.svg" width="100" height="20" />
+<img src="/html-5.svg" width="100" height="20" />
+<img src="/nodejs.svg" width="100" height="20" />
+<img src="/redux.svg" width="100" height="20" />
 
-![React](/react.svg=100x200)
-![Bootstrap](/bootstrap.svg=100x200)
-![CSS3](/css-3.svg=100x200)
-![HTML5](/html-5.svg=100x200)
-![NodeJS](/nodejs-icon.svg=100x200)
-![Redux](/redux.svg=100x200)
