@@ -21,7 +21,7 @@
 <div style={{ display: flex, background-color: white }}>
  <img src="https://raw.githubusercontent.com/patil-prajwal/Tech-Stack-Icons/661b1305f52d49de94f6640f8bbeec93dba9dc8a/Icons/python.svg" width="50" height="50" />              <img src="https://raw.githubusercontent.com/patil-prajwal/Tech-Stack-Icons/661b1305f52d49de94f6640f8bbeec93dba9dc8a/Icons/flask.svg" width="50" height="50" />                 
  <img src="https://raw.githubusercontent.com/patil-prajwal/Tech-Stack-Icons/661b1305f52d49de94f6640f8bbeec93dba9dc8a/Icons/nodejs-icon.svg" width="50" height="50" />
- <img src="https://raw.githubusercontent.com/patil-prajwal/Tech-Stack-Icons/661b1305f52d49de94f6640f8bbeec93dba9dc8a/Icons/express.svg" width="50" height="90" />
+ <img src="https://raw.githubusercontent.com/patil-prajwal/Tech-Stack-Icons/661b1305f52d49de94f6640f8bbeec93dba9dc8a/Icons/express.svg" width="90" height="90" />
 </div>
 
 <h2>Design</h2>
