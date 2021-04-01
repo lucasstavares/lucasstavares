@@ -11,7 +11,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-![React](/react.svg)
+![React](/react.svg =250x)
 ![Bootstrap](/bootstrap.svg)
 ![CSS3](/css-3.svg)
 ![HTML5](/html-5.svg)
