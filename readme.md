@@ -11,9 +11,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-![React](/react.svg=250x)
-![Bootstrap](/bootstrap.svg)
-![CSS3](/css-3.svg)
-![HTML5](/html-5.svg)
-![NodeJS](/nodejs-icon.svg)
-![Redux](/redux.svg)
+![React](/react.svg=100x20)
+![Bootstrap](/bootstrap.svg=100x20)
+![CSS3](/css-3.svg=100x20)
+![HTML5](/html-5.svg=100x20)
+![NodeJS](/nodejs-icon.svg=100x20)
+![Redux](/redux.svg=100x20)
