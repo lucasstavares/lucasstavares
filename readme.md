@@ -11,4 +11,4 @@
 
 <h3>🛠 Tech Stack</h3>
 
-<p>![react](/react.svg)</p>
+<p>![React](/react.svg)</p>
