@@ -11,7 +11,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-<img src="/react.svg" width="50" height="20" /> <img src="/bootstrap.svg" width="50" height="20" /> <img src="/css-3.svg" width="50" height="20" /> <img src="/html-5.svg" width="50" height="20" /> <img src="/nodejs-icon.svg" width="50" height="20" /> <img src="/redux.svg" width="50" height="20" />
+<img src="/react.svg" width="50" height="20" /><img src="/react-router.svg" width="50" height="20" /><img src="/bootstrap.svg" width="50" height="20" /><img src="/css-3.svg" width="50" height="20" /><img src="/html-5.svg" width="50" height="20" /><img src="/nodejs-icon.svg" width="50" height="20" /><img src="/redux.svg" width="50" height="20" /><img src="/mongodb.svg" width="50" height="20" /><img src="/sass.svg" width="50" height="20" /> 
 
 
 
