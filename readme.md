@@ -11,6 +11,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
+<img src="/react.svg width="200" height="200" />
+
 ![React](/react.svg=100x200)
 ![Bootstrap](/bootstrap.svg=100x200)
 ![CSS3](/css-3.svg=100x200)
