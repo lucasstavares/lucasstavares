@@ -14,5 +14,4 @@
 - 🌐 &nbsp; Android | ReactJS | HTML | CSS | JavaScript | TailwindCSS 
 - 🔧 &nbsp; Visual Studio Code | Git
 - 🖥 &nbsp; Adobe Xd | Figma | Photoshop 
-
-![GitHub Logo](/react.svg)
+(/react.svg)
